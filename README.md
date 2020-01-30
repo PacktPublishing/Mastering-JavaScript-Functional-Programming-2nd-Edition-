@@ -62,7 +62,7 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Federico Kereki**
-FEDERICO KEREKI Federico Kereki is a Uruguayan Systems Engineer, with a Master's degree in Education, and more than 30 years of experience as a consultant, system developer, university professor, and writer.
+is a Uruguayan Systems Engineer, with a Master's degree in Education, and more than 30 years of experience as a consultant, system developer, university professor, and writer.
 He is currently a Subject Matter Expert at Globant, where he gets to use a good mixture of development frameworks, programming tools, and operating systems, such as JavaScript, Node.JS, React and Redux, Vue, SOA, Containers, with both Windows and Linux.
 He has taught several computer science courses at Universidad de la República, Universidad ORT Uruguay, and Universidad de la Empresa. He has also written texts for these courses.
 He has written several articles--on JavaScript, web development, and open source topics-- for magazines such as Linux Journal and LinuxPro Magazine in the United States, Linux+ and Mundo Linux in Europe, and for websites such as Linux.com and IBM DeveloperWorks. He has done technical reviews for several books (for Packt), and he also wrote booklets on computer security (Linux in the Time of Malware and SSH: A Modern Lock for your Server), and two books: Essential GWT: Building for the Web with Google Web Toolkit, and Modern JavaScript Web Development Cookbook (for Packt).
