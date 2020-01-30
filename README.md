@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/web-development/mastering-javascript-functional-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781839213069"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839213069-original.png" alt="	Mastering JavaScript Functional Programming" height="256px" align="right"></a>
 
-This is the code repository for [Mastering JavaScript Functional Programming](https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839213069-original.png), published by Packt.
+This is the code repository for [Mastering JavaScript Functional Programming](https://www.packtpub.com/web-development/mastering-javascript-functional-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781839213069), published by Packt.
 
 **Write clean, robust, and maintainable web and server code using functional JavaScript**
 
